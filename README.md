@@ -3,4 +3,4 @@ test
 
 # Author
 Konakawa Naho
-K
+Kato Yudai
